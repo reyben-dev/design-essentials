@@ -1,7 +1,7 @@
 ## Table of Contents
 
 - [Fonts](#fonts)
-- [Stock Photos](#stockphotos)
+- [Stock Photos](#stock-photos)
 
 ## Fonts
 
