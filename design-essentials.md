@@ -1,7 +1,7 @@
 ## Table of Contents
 
 - [Fonts](#fonts)
-- [PPT Templates](PPT-templates)
+- [PPT Templates](#ppt-templates)
 - [Stock Photos](#stock-photos)
 - [Stock Videos](#stock-videos)
 
