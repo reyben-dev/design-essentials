@@ -1,9 +1,24 @@
 ## Table of Contents
 
+- [Design Templates](#design-templates)
 - [Fonts](#fonts)
+- [Illustrations](#illustrations)
 - [PPT Templates](#ppt-templates)
 - [Stock Photos](#stock-photos)
 - [Stock Videos](#stock-videos)
+
+## Design Templates
+
+>A large collection of design templates
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------  |
+| [Freepik](https://www.freepik.com/)           | Find and download the best high-quality photos, vectors, videos, and mockups |
+| [Vecteezy](https://vecteezy.com/)             | Find the perfect graphic, background, illustration, template, or icon for your design |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Fonts
 
@@ -13,6 +28,18 @@
 | ----------------------- | ------------------  |
 | [Google Fonts](https://www.fonts.google.com/) | Includes free and open source font families bringing personality and performance to your websites and products |
 | [Dafonts](https://uidesigndaily.com/)         | Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Illustrations
+
+>A large collection of illustrations
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [unDraw](https://www.undraw.co/)             | Open-source illustrations for any idea you can imagine and create |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
