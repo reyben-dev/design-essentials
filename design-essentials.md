@@ -26,8 +26,8 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------  |
-| [Google Fonts](https://www.fonts.google.com/) | Includes free and open source font families bringing personality and performance to your websites and products |
-| [Dafonts](https://uidesigndaily.com/)         | Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity |
+| [Google Fonts](https://www.fonts.google.com/) | Includes free and open source font families bringing personality and performance to your websites and products                   |
+| [Dafonts](https://uidesigndaily.com/)         | Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity                      |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
